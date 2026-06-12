@@ -1,6 +1,6 @@
 # 🦾 Bionic Hand — EMG to Finger Angle Regression
 
-A deep learning pipeline that predicts **continuous finger joint angles** from **surface EMG signals** using a CNN-LSTM architecture. Built as part of an internship research project at **BERT Lab, IIT Jodhpur** (Department of Bioscience & Bioengineering).
+A deep learning pipeline that predicts **continuous finger joint angles** from **surface EMG signals** using a CNN-LSTM architecture. Built as part of an internship research project at **BERT Lab, IIT Jodhpur**
 
 ---
 
