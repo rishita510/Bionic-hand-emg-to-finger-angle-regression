@@ -130,7 +130,7 @@ Update `FILE_PATH` in the script to point to your CSV dataset.
 ```
 bionic-hand-emg-angle-regression/
 │
-├── cnn_lstm_angle_prediction.py   # Main training script
+├── angle_predict.py   # Main training script
 ├── training_curve.png             # Loss curve
 ├── cnn_lstm_angle_model.pth       # Saved model weights
 └── README.md
